@@ -8,8 +8,8 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome to <br/>
-        My Personal Portfolio
+        Bem vindo ao <br/>
+        Meu portfólio!
       </SectionTitle>
       <SectionText>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor rhoncus sem convallis tempus. 
